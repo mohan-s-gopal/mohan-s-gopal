@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohan S G</h1>
-<h3 align="center">Software Engineer</h3>
+### Hi 👋, I'm Mohan S G
 
+#### I'm a Engineer, Learner and Mentor!!
 - 🔭 I’m currently working on **Cisco Systems, India**
-
 - 📝 I regularly write articles on [https://www.techfascinator.in/](https://www.techfascinator.in/)
-
 - 📫 How to reach me **sggopalmohan@gmail.com**
-
 - 📄 Know about my experiences [https://mohan-s-gopal.github.io/](https://mohan-s-gopal.github.io/)
 
 <h3 align="left">Connect with me:</h3>
