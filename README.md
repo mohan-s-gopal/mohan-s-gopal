@@ -14,7 +14,7 @@
 </p>
 
  <a href="https://app.daily.dev/mohan12135">
-<img align="right" style="position: absolute; top: 100px; right: 10px; " style="background-position: top center;" src="https://api.daily.dev/devcards/289089bffd25453e9fe33633293d3cf7.png?r=ayn" width="400" alt="Mohan Gopal's Dev Card"/>
+<img align="right" style="position: absolute;top: 100px;right: 10px;" src="https://api.daily.dev/devcards/289089bffd25453e9fe33633293d3cf7.png?r=ayn" width="400" alt="Mohan Gopal's Dev Card"/>
  </a>
 
 <h3 align="left">Languages and Tools:</h3>
