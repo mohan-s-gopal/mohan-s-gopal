@@ -2,18 +2,18 @@
 
 ### Hi 👋, I'm Mohan S G
 
-#### I'm a Engineer, Learner and Mentor!!
-- 🔭 I’m currently working on **Cisco Systems, India**
-- 📝 I regularly write articles on [https://www.techfascinator.in/](https://www.techfascinator.in/)
+#### Engineer, Learner and Mentor!!
+- 🔭 currently working on **Cisco Systems, India**
+- 📝 Regularly write articles on [mohan-s-gopal.medium.com](https://mohan-s-gopal.medium.com/)
 - 📫 How to reach me **sggopalmohan@gmail.com**
-- 📄 Know about my experiences [https://mohan-s-gopal.github.io/](https://mohan-s-gopal.github.io/)
+- 📄 Know about my experiences [mohan-s-gopal.github.io](https://mohan-s-gopal.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mohansgopal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mohansgopal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohan-sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohan-sg" height="30" width="40" /></a>
-<a href="https://medium.com/@sggopalmohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sggopalmohan" height="30" width="40" /></a>
+<a href="https://mohan-s-gopal.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sggopalmohan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
