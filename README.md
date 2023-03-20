@@ -1,4 +1,4 @@
- <a href="https://app.daily.dev/mohan12135"><img align="right" src="https://api.daily.dev/devcards/289089bffd25453e9fe33633293d3cf7.png?r=qop" width="400" alt="Mohan Gopal's Dev Card"/></a>
+ <!--<a href="https://app.daily.dev/mohan12135"><img align="right" src="https://api.daily.dev/devcards/289089bffd25453e9fe33633293d3cf7.png?r=qop" width="400" alt="Mohan Gopal's Dev Card"/></a>-->
 
 ### Hi 👋, I'm Mohan S G
 
