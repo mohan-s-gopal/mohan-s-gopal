@@ -1,9 +1,9 @@
  <!--<a href="https://app.daily.dev/mohan12135"><img align="right" src="https://api.daily.dev/devcards/289089bffd25453e9fe33633293d3cf7.png?r=qop" width="400" alt="Mohan Gopal's Dev Card"/></a>-->
 
-### Hello 👋, I'm Mohan S G
+### Hello 👋, I'm Mohan SG
 
 #### Passionate developer, Learner, and explorer !!
-- 📫 How to reach me **sggopalmohan@gmail.com**
+- Working as a DevOps professional for over 6 years, passionate about problem-solving.
 - 📄 Know about my experiences [mohan-s-gopal.github.io](https://mohan-s-gopal.github.io/)
 
 
