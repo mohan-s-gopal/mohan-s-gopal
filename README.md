@@ -129,9 +129,9 @@ spec:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-s-gopal&layout=compact&theme=tokyonight"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-s-gopal&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan-s-gopal&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
